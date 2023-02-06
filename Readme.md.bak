@@ -55,7 +55,7 @@ In order to detect if your PC is locked and change the fan status accordingly, u
 
 Code for the Arduino is available [here](Code/Arduino/Main.ino)
 
-Code for the PowerShell script is available [here](Code/Powershell/Fan_controller_base.ps1)
+Code for the PowerShell script is available [here](Code/PowerShell/Fan_controller_base.ps1)
 
 The PowerShell executables are located [here](Executables)
 
@@ -64,4 +64,4 @@ The PowerShell executables are located [here](Executables)
 Examine this demo video
 
 
- [![Demo Video](Images/Circuit.jpg)](Images/Demonstration.MOV)
+ [![Demo Video](images/Circuit.jpg)](Images/Demonstration.MOV)
