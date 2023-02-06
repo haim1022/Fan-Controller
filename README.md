@@ -64,4 +64,4 @@ The PowerShell executables are located [here](Executables)
 Examine this demo video
 
 
- [![Demo Video](Images/Circuit.jpg)](Images/Demonstration.MOV)
+ [![Demo Video](http://img.youtube.com/vi/tLc1283Xgv0/0.jpg)](https://youtu.be/tLc1283Xgv0)
