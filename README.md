@@ -32,7 +32,7 @@ If you only want the fan to be turned off with the computers lock (and without d
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="images/Arduino%20spectrum%20analyzer%20-%20schematic_fixed_1.png">
+<img alt="Schematic Diagram" src="images/Schematics.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
@@ -45,15 +45,19 @@ If you decide not to use the ultrasonic sensor, the provided PowerShell script w
 
 The MCU will then use this information to turn the connected fan on or off.
 
+In order to detect if your PC is locked and change the fan status accordingly, use the PowerShell executables, make sure to run the "Fan_controller.exe" while the "Fan_controller_base.exe" is in the same folder.
+
 ## Code
 
-Code for the Arduino is available [here](Code/Arduino-32band-audio-spectrum-visualizer-analyzer.ino)
+Code for the Arduino is available [here](Code/Arduino/Main.ino)
 
-Code for the PowerShell script is available [here](Code/Arduino-32band-audio-spectrum-visualizer-analyzer.ino)
+Code for the PowerShell script is available [here](Code/PowerShell/Fan_controller_base.ps1)
+
+The PowerShell executables are located [here](Executables)
 
 ### Watch this project in action
 
 Examine this demo video
 
 
- [![Demo Video](http://img.youtube.com/vi/GF_i0EnUEro/pg)](https://youtu.be/GF_iEro)
+ [![Demo Video](images/Circuit.jpg)](images/Demonstration.MOV)
