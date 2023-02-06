@@ -1,6 +1,6 @@
 # Arduino personal fan controller
 
-![Main Image](images/Main_photo.JPG)
+![Main Image](Images/Main_photo.JPG)
 
 This project will make your personal office fan smart, as it will detect whether or not you are near you are workstation.
 The prototype will allow be able to detect a user that is in front of the fan using an ultrasonic sensor or by checking for the computer status, if the computer s locked, the fan will turn off automatically.
@@ -32,11 +32,11 @@ If you only want the fan to be turned off with the computers lock (and without d
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="images/Schematics.png">
+<img alt="Schematic Diagram" src="Images/Schematics.png">
 </p>
       
 <p align="center">
-<img alt="Circuit photo" src="images/Circuit.JPG">
+<img alt="Circuit photo" src="Images/Circuit.JPG">
 </p>
 	  
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
@@ -64,4 +64,4 @@ The PowerShell executables are located [here](Executables)
 Examine this demo video
 
 
- [![Demo Video](images/Circuit.jpg)](images/Demonstration.MOV)
+ [![Demo Video](images/Circuit.jpg)](Images/Demonstration.MOV)
